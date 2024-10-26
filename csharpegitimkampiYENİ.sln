@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_temel", "01_temel\01_temel.csproj", "{AF969F9C-700E-44B0-9D2A-FCEAEBC83831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_variabless", "02_variabless\02_variabless.csproj", "{0D44FC2E-1CC5-47AE-B7E0-1B380D6981CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF969F9C-700E-44B0-9D2A-FCEAEBC83831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF969F9C-700E-44B0-9D2A-FCEAEBC83831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF969F9C-700E-44B0-9D2A-FCEAEBC83831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF969F9C-700E-44B0-9D2A-FCEAEBC83831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D44FC2E-1CC5-47AE-B7E0-1B380D6981CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D44FC2E-1CC5-47AE-B7E0-1B380D6981CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D44FC2E-1CC5-47AE-B7E0-1B380D6981CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D44FC2E-1CC5-47AE-B7E0-1B380D6981CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C1C85F-BE11-488C-865D-1FD4EC1CDCA3}
+	EndGlobalSection
+EndGlobal

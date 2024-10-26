@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\bin\Debug\02_variabless.exe.config
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\bin\Debug\02_variabless.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\bin\Debug\02_variabless.pdb
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\obj\Debug\02_variabless.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\obj\Debug\02_variabless.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\obj\Debug\02_variabless.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\02_variabless\obj\Debug\02_variabless.pdb

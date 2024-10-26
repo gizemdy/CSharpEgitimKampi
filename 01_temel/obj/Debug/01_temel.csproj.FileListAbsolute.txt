@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\bin\Debug\01_temel.exe.config
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\bin\Debug\01_temel.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\bin\Debug\01_temel.pdb
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\obj\Debug\01_temel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\obj\Debug\01_temel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\obj\Debug\01_temel.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\01_temel\obj\Debug\01_temel.pdb
