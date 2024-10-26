@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B28E0FEE-C69C-47EA-931E-6D873C634FC4}</ProjectGuid>
+    <ProjectGuid>{727B9A31-B30C-471B-A053-FA7076FA7FF0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_05_loopswtstars</RootNamespace>
-    <AssemblyName>05_loopswtstars</AssemblyName>
+    <RootNamespace>_06_Arrays</RootNamespace>
+    <AssemblyName>06_Arrays</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

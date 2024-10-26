@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\obj\Debug\03_kararyapilari.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\obj\Debug\03_kararyapilari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\bin\Debug\03_kararyapilari.exe.config
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\bin\Debug\03_kararyapilari.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\bin\Debug\03_kararyapilari.pdb
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\obj\Debug\03_kararyapilari.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\03_kararyapilari\obj\Debug\03_kararyapilari.pdb

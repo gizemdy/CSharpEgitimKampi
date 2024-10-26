@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\bin\Debug\05_loops.exe.config
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\bin\Debug\05_loops.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\bin\Debug\05_loops.pdb
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\obj\Debug\04_loops.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\obj\Debug\04_loops.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\obj\Debug\05_loops.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\05_loops\obj\Debug\05_loops.pdb
