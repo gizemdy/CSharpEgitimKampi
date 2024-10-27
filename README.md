@@ -1,3 +1,5 @@
+Eylül ayının sonunda Murat Yücedağ ile CSharp Eğitim Kampının 10. projesini tamamladım. Eğitim Aralık ayında sona erecektir.
+
 01_temel projesi içerisinde CSharp diline giriş, yazdırma komutları, değişken türleri uygulamalarını tamamladım.
 02_variables projesinde değişken türleri, klavyeden kullanıcının veri girişi, dönüşümler konularını tamamladım.
 03_kararyapilari projesinde if-else, switch case, mod/ortalama hesaplama uygulamalarını işledim.
