@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\bin\Debug\07_foreach.exe.config
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\bin\Debug\07_foreach.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\bin\Debug\07_foreach.pdb
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\obj\Debug\07_foreach.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\obj\Debug\07_foreach.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\obj\Debug\07_foreach.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\07_foreach\obj\Debug\07_foreach.pdb

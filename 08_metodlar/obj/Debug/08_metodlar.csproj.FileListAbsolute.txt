@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\bin\Debug\08_metodlar.exe.config
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\bin\Debug\08_metodlar.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\bin\Debug\08_metodlar.pdb
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\obj\Debug\08_metodlar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\obj\Debug\08_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\obj\Debug\08_metodlar.exe
+C:\Users\Lenovo\source\repos\csharpegitimkampiYENİ\08_metodlar\obj\Debug\08_metodlar.pdb
