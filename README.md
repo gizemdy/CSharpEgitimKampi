@@ -4,3 +4,5 @@
 04_loops projesinde for ve while dongüsü işlendi, örnek uygulamalar yapıldı.
 05_loopswtstars projesinde donguleri kullanarak *** ile şekiller çizme uygulamalarını tamamladım.
 06_Arrays projesinde dizi örnekleri, listeleme, sıralama, metodlar gibi konuları tamamladım.
+07_foreach projesinde foreach dongusu konusunu tamamladım, örnek bir uygulama yaptım.
+08_metodlar projesinde geriye deger donduren ve dondurmeyen int/str metodlar konularını tamamladım.
