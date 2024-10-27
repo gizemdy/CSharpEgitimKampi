@@ -1,4 +1,6 @@
-Eylül ayının sonunda Murat Yücedağ ile CSharp Eğitim Kampının 10. projesini tamamladım. Eğitim Aralık ayında sona erecektir.
+29 Eylül'de Youtube üzerinden ücretsiz olarak sunulan "Murat Yücedağ ile CSharp Eğitim Kampı" nın 10. projesini tamamladım. Eğitim Aralık ayında sona erecektir. Şu ana kadar tamamladığım projeler aşağıda listelenmiştir.
+
+
 
 01_temel projesi içerisinde CSharp diline giriş, yazdırma komutları, değişken türleri uygulamalarını tamamladım.
 02_variables projesinde değişken türleri, klavyeden kullanıcının veri girişi, dönüşümler konularını tamamladım.
