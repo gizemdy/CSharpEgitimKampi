@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\csharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\csharpEgitimKampi301.EntityLayer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\csharpEgitimKampi301.EntityLayer.pdb
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\obj\Debug\csharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\obj\Debug\csharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\obj\Debug\csharpEg.9D12C678.Up2Date
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\obj\Debug\csharpEgitimKampi301.EntityLayer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.EntityLayer\obj\Debug\csharpEgitimKampi301.EntityLayer.pdb

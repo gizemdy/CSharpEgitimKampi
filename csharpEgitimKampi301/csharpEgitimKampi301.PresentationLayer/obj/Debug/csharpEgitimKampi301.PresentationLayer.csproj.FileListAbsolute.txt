@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\bin\Debug\csharpEgitimKampi301.PresentationLayer.exe.config
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\bin\Debug\csharpEgitimKampi301.PresentationLayer.exe
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\bin\Debug\csharpEgitimKampi301.PresentationLayer.pdb
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\obj\Debug\csharpEgitimKampi301.PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\obj\Debug\csharpEgitimKampi301.PresentationLayer.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\obj\Debug\csharpEgitimKampi301.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\obj\Debug\csharpEgitimKampi301.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\obj\Debug\csharpEgitimKampi301.PresentationLayer.exe
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.PresentationLayer\obj\Debug\csharpEgitimKampi301.PresentationLayer.pdb

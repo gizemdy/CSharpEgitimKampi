@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\csharpEgitimKampi301.DataAccessLayer.dll.config
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\csharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\csharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\csharpEgitimKampi301.EntityLayer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\csharpEgitimKampi301.EntityLayer.pdb
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\csharpEgitimKampi301.EntityLayer.dll.config
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEg.72EB30A7.Up2Date
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEgitimKampi301.DataAccessLayer.dll
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEgitimKampi301.DataAccessLayer.pdb
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
+C:\Users\Lenovo\source\repos\csharpEgitimKampi301\csharpEgitimKampi301.DataAccessLayer\obj\Debug\csharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache
