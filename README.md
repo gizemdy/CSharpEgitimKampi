@@ -10,3 +10,5 @@
 🚩06_Arrays projesinde dizi örnekleri, listeleme, sıralama, metodlar gibi konuları tamamladım.
 🚩07_foreach projesinde foreach dongusu konusunu tamamladım, örnek bir uygulama yaptım.
 🚩08_metodlar projesinde geriye deger donduren ve dondurmeyen int/str metodlar konularını tamamladım.
+🚩09_database projesinde Csharp uygulama üzerinden sql veritabanına bağlanmayı, tablolar oluşturmayı ve konsol üzerinde listelemeyi tamamladım.
+🚩10_databasecrud projesinde csharp ile sql'deki verilerin silme-güncelleme-ürün/kategori ekleme işlemlerini konsol üzerinden gerçekleştirebildim.
